@@ -12,7 +12,7 @@ This is a simple calculator application built using Python and the Tkinter libra
 To use the calculator application, follow these steps:
 
 Clone the repository to your local machine:
-git clone https://github.com/yourusername/calculator.git
+git clone https://github.com/riyasengar790/calculator_using_Tkinter.git
 Navigate to the project directory
 cd calculator
 Run the Python script:
@@ -30,10 +30,10 @@ Click the "(-)" button to change the sign of the current value.
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 Fork the repository.
-Create a new branch (git checkout -b feature/improvement).
+Create a new branch .
 Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/improvement).
+Commit your changes .
+Push to the branch .
 Create a new pull request.
 
 
